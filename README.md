@@ -11,4 +11,4 @@ devazizulhaque/devazizulhaque is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-profile-trophy.vercel.app/?username=devazizulhaque&fbclid=IwAR0aFoMmk2X12KDa-RHINGEJ59Iy9sKWkLCdSI02Jy57jRGvO8a1OfPPCes
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devazizulhaque" alt="devazizulhaque" /></a> </p>
