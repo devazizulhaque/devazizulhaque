@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azizul Haque
-- 👋 I’m an expert in  expert in full-stack software engineering
+- 👋 I’m an expert as a software engineering
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with a web developer
