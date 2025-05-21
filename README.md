@@ -46,8 +46,40 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devazizulhaque" alt="devazizulhaque" />
+    <img src="https://github-profile-trophy.vercel.app/?username=devazizulhaque&theme=algolia&column=7" alt="devazizulhaque" />
   </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devazizulhaque&show_icons=true&theme=algolia&hide_title=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devazizulhaque&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🗂️ Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devazizulhaque&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devazizulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
