@@ -38,8 +38,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)
-![API Development](https://img.shields.io/badge/-API%20Development-49C5B6?logo=api&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-00618A?logo=rest&logoColor=white)
+
 
 **Database & Tools:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
