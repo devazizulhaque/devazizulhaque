@@ -8,7 +8,7 @@
 - 👀 I’m passionate about programming & technology  
 - 🌱 I’m currently learning advanced Python  
 - 💞️ I’m looking to collaborate with fellow web developers  
-- 🌱 Currently working as a full-stack web developer  
+- 🌱 Currently working as a Senior Software Engineer  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizul-haque-309674193/)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/devazizulhaque)
