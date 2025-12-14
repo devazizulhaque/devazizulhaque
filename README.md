@@ -124,3 +124,5 @@
 devazizulhaque/devazizulhaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![GitHub Snake](https://github.com/devazizulhaque/devazizulhaque/blob/output/github-snake.svg)
+
